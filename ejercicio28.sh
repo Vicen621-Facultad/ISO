@@ -1,4 +1,5 @@
 #!/bin/bash
+# TODO: Preguntar porque no anda
 
 if [ $# -ne 1 ]
 then
